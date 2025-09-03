@@ -1,9 +1,9 @@
 <p align="center">
-  <p align="center">
-  <a href="https://www.uit.edu.vn" target="_blank">
+  <a href="https://www.uit.edu.vn" target="_blank" rel="noopener noreferrer">
     <img width="454" height="126" alt="banner_uit" src="https://github.com/user-attachments/assets/dccf9443-d7d9-4f64-8c47-0a01691fc1c8" />
   </a>
 </p>
+
 
 <h1 align="center">IE103 - Quản lí thông tin</h1>
 
