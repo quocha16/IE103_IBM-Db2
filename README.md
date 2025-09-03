@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.uit.edu.vn/sites/vi/files/logo-uit.png" alt="UIT Logo" width="400"/>
+  <img width="454" height="126" alt="banner_uit" src="https://github.com/user-attachments/assets/dccf9443-d7d9-4f64-8c47-0a01691fc1c8" />
 </p>
+
 
 <h1 align="center">IE103 - Quản lí thông tin</h1>
 
@@ -16,7 +17,7 @@
 ---
 
 ## 👨‍🏫 GIẢNG VIÊN HƯỚNG DẪN
-- ** ThS. Tạ Thu Thủy**
+- **ThS. Tạ Thu Thủy**
 
 ---
 
