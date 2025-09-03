@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit.png" alt="UIT Logo" width="400"/>
+  <img src="https://www.uit.edu.vn/sites/vi/files/logo-uit.png" alt="UIT Logo" width="400"/>
 </p>
 
 <h1 align="center">IE103 - Quản lí thông tin</h1>
