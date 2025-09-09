@@ -36,7 +36,7 @@
 ---
 
 ## 📌 ĐỒ ÁN MÔN HỌC
-*TÌM HIỂU VỀ HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU IBM DB2*
+*TÌM HIỂU VỀ HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU IBM DB2*<br>
 Repo này chỉ dùng để tham khảo trong việc học tập và thực hành thiết kế, cài đặt, cũng như thao tác với cơ sở dữ liệu quan hệ trong IBM Db2.
 
 ---
